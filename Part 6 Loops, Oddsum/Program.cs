@@ -18,7 +18,7 @@ namespace Part_6_Loops__Oddsum
             {
                 totalSum = (totalSum + (totalSum + 2));
 
-
+                            
 
                 Console.WriteLine();
             }
